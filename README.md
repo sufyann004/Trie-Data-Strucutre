@@ -1,0 +1,1 @@
+This is a python based project for the course Data Strucutures and Alogorithms. It is a terminal based project which efficiently does insertion, deletion, retrieval and much more from a trie data structure. 
